@@ -1,0 +1,184 @@
+.main_chooser .restaurant-main-section .delivery-mode-container .mode-title.selected {
+    background: #b33d26;
+}
+
+.main_chooser .restaurant-main-section .now-later label.selected {
+    background: #b33d26;
+}
+
+.main_chooser .restaurant-main-section .goto-menu-btn .primary-btn {
+    background: #b33d26;
+    border-color: #b33d26;
+}
+
+.restoMenuWrapperOuter .restoMenuWrapper {
+    background-color: #b33d26;
+}
+
+.top-header .restoLocation .restoDelivery .editLocationBtn {
+    color: #b33d26;
+}
+
+.top-header .restoLocation .restoDelivery .editLocationBtn:hover {
+    background-color: #b33d26;
+}
+
+.main-menu-items .panel-default .panel-heading a[aria-expanded="true"] {
+    background-color: #b33d26;
+    opacity: 60%;
+    color: white;
+}
+
+.item-name .ng-binding {
+    color: #b33d26;
+}
+
+.item-list .item-container .itemsFooter .item-add-button {
+    color: #b33d26;
+    border-color: #b33d26;
+}
+
+.item-list .item-container .itemsFooter .item-add-button:hover {
+    background-color: #b33d26;
+    opacity: 60%;
+    color: white;
+    
+}
+
+.item-list .item-container .itemsFooter .item-customize-button {
+        color: #b33d26;
+    border-color: #b33d26;
+}
+
+.item-list .item-container .itemsFooter .item-customize-button:hover {
+    background-color: #b33d26;
+    opacity: 60%;
+    color: white;
+}
+
+.item-list .item-container .item-details-wrapper .itemImage img {
+    display: none;
+}
+
+.item-list .item-container .item-details-wrapper .modal-body .item-name {
+    color: #b33d26;
+}
+
+.item-list .item-container .item-details-wrapper .modal-body {
+    height: 40vh;
+}
+
+.item-list .item-container .item-details-wrapper .modal-body .itemDescription {
+    max-height: none;
+}
+
+input[type="radio"]:checked + span.customRadio::after, input[type="radio"] + span.customRadio::after {
+    color: #b33d26;
+}
+
+.customize-section .customizationPopupFooter .btn-price-box .item-add-button {
+    background: #b33d26;
+    border-color: #b33d26;
+}
+
+input[type="checkbox"] + span.customCheckbox::before {
+    color: #b33d26;
+}
+
+.custom-toast {
+    background: #b33d26;
+}
+
+button.item-decrement-button, button.item-increment-button {
+    color: #b33d26;
+    border-color: #b33d26;
+}
+
+.fa-pen, .fa-trash-alt{
+    color: #b33d26;
+}
+
+.tip-section.type2 {
+    height: 60px;
+}
+
+.tip-btn-wrapper {
+    height: 60px;
+}
+
+.tip-section.type2 button {
+    height: 40px;
+    width: auto;
+    font-size: 14px;
+}
+
+.tip-section .tipSectionSpan, .tip-section.type2 .tipSectionSpan {
+    color: #b33d26;
+}
+
+.tip-section.type2 button {
+    color: #fff;
+    background-color: #444;
+    margin: 0 2px;
+}
+
+.tip-section.type2 button.active {
+    background-color: #b33d26;
+}
+
+
+.tip-section.type2 button:hover {
+    color: #fff;
+    background-color: #b33d26;
+}
+
+
+
+.cart-container .cartWithItems .checkoutBtn {
+    background: #b33d26;
+}
+
+.open > .dropdown-toggle.btn-default, .open > .dropdown-toggle.btn-default:focus, .open > .dropdown-toggle.btn-default:hover, .ProfileDropDown .btn-default:hover {
+    background-color: #b33d26;
+    border-color: #b33d26;
+}
+
+md-dialog-actions button.md-button.md-primary:first-child {
+    background: #b33d26;
+    background-color: #b33d26;
+}
+
+md-dialog-actions button.md-button.md-primary:first-child {
+    background: #b33d26;
+    background-color: #b33d26;
+}
+
+md-dialog-actions button.md-button.md-primary:nth-child(2) {
+    color: #b33d26;
+    border-color: #b33d26;
+}
+
+.dropdown-menu > li > a:hover {
+    background: #b33d26;
+}
+
+.mobHeader .restoMobMenuWrapper .restoMobMenu {
+    background: #b33d26;
+}
+
+.main-menu-items .fixed-cart.mobile-enable .onClearMinOrder {
+    background: #b33d26;
+    width: 100%;
+}
+
+.main-menu-items .fixed-cart.mobile-enable .primary-btn {
+    display: none;
+}
+
+.md-dialog-container .md-dialog-fullscreen .cartMobHeading {
+    background-color: #b33d26;
+}
+
+.mobile-cart md-toolbar .md-toolbar-tools .md-ink-ripple, .mobile-cart md-toolbar .md-toolbar-tools .checkout-btn {
+    background: #b33d26;
+}
